@@ -26,12 +26,11 @@ Your API key will look something like this:
 ## 📸 Output / Results
 
 <p align="center">
-  <img src="screenshots/ss1.png" alt="Gemini Clone Screenshot" width="350"/>
+  <img src="ss1.png" alt="Gemini Clone Screenshot" width="350"/>
 </p>
 
 <p align="center">
   <video width="400" controls>
     <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </p>
