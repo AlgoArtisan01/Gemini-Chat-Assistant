@@ -26,11 +26,5 @@ Your API key will look something like this:
 ## 📸 Output / Results
 
 <p align="center">
-  <img src="ss1.png" alt="Gemini Clone Screenshot" width="350"/>
-</p>
-
-<p align="center">
-  <video width="400" controls>
-    <source src="demo.mp4" type="video/mp4">
-  </video>
+  <img src="demo.gif" alt="Gemini Clone Demo" width="500"/>
 </p>
