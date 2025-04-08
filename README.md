@@ -8,7 +8,7 @@ If you encounter an error like "API key not valid. Please pass a valid API key."
 2. Navigate to the API key section and create a new API key.
 
 Your API key will look something like this:  
-`AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_wOTQ`
+`AIzaSyAertghGX13bTgmx0l_gewfnjwgvY_wOTQ`
 
 **Note:** The API is free but has a limited number of usage requests.
 
