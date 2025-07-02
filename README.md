@@ -28,3 +28,8 @@ Your API key will look something like this:
 <p align="center">
   <img src="demo.gif" alt="Gemini Clone Demo" width="500"/>
 </p>
+
+## 🚀 Live Demo
+
+🔗 **Working Link**:  [Try Here ...](https://g3m1n1.netlify.app/)
+
