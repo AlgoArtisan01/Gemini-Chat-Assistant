@@ -8,16 +8,8 @@ const deleteChatButton = document.querySelector("#delete-chat-button");
 let userMessage = null;
 let isResponseGenerating = false;
 
-<<<<<<< HEAD
 // API configuration - using Gemini v1beta
-const API_KEY = "Enter Your Api Key";
-=======
-// ✅ API configuration using environment variable
-const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
-// To use this script without a build tool, replace API_KEY with your own key
-// and remove any reference to import.meta.env (used in Vite/ES modules)
-
->>>>>>> 815334f (.env added to host)
+const API_KEY = "Your API Key Here"; // Replace with your actual API key
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 // Load theme and chat data from local storage
