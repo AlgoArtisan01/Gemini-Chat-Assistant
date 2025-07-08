@@ -26,7 +26,7 @@ Your API key will look something like this:
 ## 📸 Output / Results
 
 <p align="center">
-  <img src="demo.gif" alt="Gemini Clone Demo" width="500"/>
+  <img src="demo.gif" alt="Gemini Clone Demo" width="600"/>
 </p>
 
 ## 🚀 Live Demo
